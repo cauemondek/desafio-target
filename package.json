@@ -1,0 +1,13 @@
+{
+  "name": "desafio-target",
+  "version": "1.0.0",
+  "description": "Desafio para a vaga de estágio na empresa Target Sistemas",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cauê Guise Mondek",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
